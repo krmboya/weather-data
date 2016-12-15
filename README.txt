@@ -1,4 +1,4 @@
-Program that find the Maximum Temperature Spread in weather.dat
+Program that finds the Maximum Temperature Spread in weather.dat
 
 To run the program, type:
 
@@ -6,9 +6,9 @@ To run the program, type:
 
 Assumptions:
 
-- Only the first 3 colums in the data file are relevant to the problem
+- Only the first 3 columns in the data file are relevant to the problem
 
-- The first two rows and the last row can be safely ignored
+- The first two lines and the last line in the file can be safely ignored
 
 - If the maximum spread appears in two or more days, the first one found will
   be returned
