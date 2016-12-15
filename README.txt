@@ -10,7 +10,7 @@ Assumptions:
 
 - The first two rows and the last row can be safely ignored
 
-- If the maximum spread appears in two days, the first one found will
+- If the maximum spread appears in two or more days, the first one found will
   be returned
 
 Tested in Python 2.7
